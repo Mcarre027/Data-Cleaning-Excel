@@ -27,7 +27,8 @@ Vous pouvez **exécuter le script en ligne gratuitement** via **Google Colab** (
 
 ### 🔹 **Méthode 1 : Ouvrir directement dans Google Colab**
 1️⃣ **Cliquez ici pour ouvrir le projet dans Colab** 👇  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mcarre027/Data-Cleaning-Excel/blob/main/ton_notebook.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mcarre027/Data-Cleaning-Excel/blob/main/Nettoyage_fichier_Excell.ipynb)
+  
 
 2️⃣ **Suivez les instructions dans le notebook** et exécutez les cellules une par une (bouton ▶️ à gauche).  
 
